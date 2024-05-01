@@ -1,3 +1,5 @@
+# UNOFFICIAL FORK
+Full credit to montoyo and CinemaMod. **Also, I apologize for the unsolicited PR; I don't know how GitHub works to be honest.**
 <p align="center">
   <img src="https://github.com/CinemaMod/mcef/assets/30220598/938896d7-2589-49df-8f82-29266c64dfb7" alt="MCEF Logo" style="width:66px;height:66px;">
 </p>
